@@ -1,0 +1,9 @@
+{
+  "short_name": "Ecom Auth",
+  "name": "E-commerce Auth Dashboard",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#ffffff",
+  "icons": []
+}
